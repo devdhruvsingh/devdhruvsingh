@@ -5,21 +5,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&width=520&lines=Data+Analyst+%26+Scientist;Product+Manager+%26+Strategist;UI%2FUX+Designer+%26+Researcher;Visual+Artist+%26+Creative+Producer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dhruv-singh-627134323" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/dhruvsingh106" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/Heart_Disease_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" />
+  </a>
+  <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank">
+    <img src="https://img.shields.io/badge/E--Commerce_Project-0052CC?style=for-the-badge&logo=web&logoColor=white" alt="E-Commerce Project" />
+  </a>
+</p>
+
 ---
 
 ### 🎨 About Me
 
 I bridge the gap between **data intelligence, human-centered design, product strategy, and creative art**.
 
-- 📊 **Data Science & Analytics:** Turning raw datasets into actionable insights, building machine learning models, and crafting interactive dashboards.
-- 💡 **Product Management:** Defining product vision, driving agile roadmaps, conducting user research, and managing feature lifecycles.
-- 🖌️ **UI/UX Design:** Wireframing, prototyping, user-flow optimization, and crafting accessible, aesthetic interfaces.
-- 🎭 **Visual Art & Music:** Creative expression through digital art, vector design, photo editing, and audio composition.
+- 📊 **Data Science & Analytics:** Building predictive machine learning models, exploratory data analysis, and deploying interactive Streamlit applications.
+- 💡 **Product Management:** Structuring product strategy, competitive research, feature scoping, and web interface prototypes.
+- 🖌️ **UI/UX Design & Visual Art:** Wireframing, intuitive user flows, and expressive digital illustrations.
 
-- 🔭 **Currently working on:** Data analytics & UX design projects
-- 🌱 **Currently learning:** Advanced ML pipelines & product design frameworks
-- 💬 **Ask me about:** Python, SQL, Tableau, Figma, Adobe Creative Cloud, and Product Strategy
-- ⚡ **Fun fact:** I love creating digital illustrations and composing music alongside analyzing complex data!
+- 🔭 **Featured ML Project:** [Heart Disease Prediction Model](https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app)
+- 💡 **Featured Product Project:** [E-Commerce GUI Platform](https://rahulecomgui-asqabvd4.manus.space)
+- 🎨 **Art Portfolio:** [Behance Design Showcase](https://www.behance.net/dhruvsingh106)
+- 💬 **Ask me about:** Python, Streamlit, Machine Learning, Figma, Adobe Creative Cloud, and Product Design
 
 ---
 
@@ -31,8 +45,7 @@ I bridge the gap between **data intelligence, human-centered design, product str
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 🎨 UI/UX Design & Creative Art
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -40,7 +53,7 @@ I bridge the gap between **data intelligence, human-centered design, product str
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-#### 🚀 Product Management & Developer Tools
+#### 🚀 Product Management & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -48,67 +61,65 @@ I bridge the gap between **data intelligence, human-centered design, product str
 
 ---
 
-### 🚀 Featured Projects & Showcase
+### 🚀 Live Projects & Showcase
 
 <table>
-  <!-- ROW 1: UI/UX Design & Data Analytics -->
+  <!-- ROW 1: Streamlit App & Product Management -->
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🎨 UI/UX & Product Redesign</h4>
-      <a href="https://github.com/devdhruvsingh">
-        <img src="https://via.placeholder.com/600x350/8A2BE2/FFFFFF?text=UI%2FUX+Prototype+Preview" alt="UI/UX Design Preview" width="100%"/>
+      <h4 align="center">❤️ Heart Disease Prediction App</h4>
+      <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank">
+        <img src="https://via.placeholder.com/600x350/FF4B4B/FFFFFF?text=Heart+Disease+Prediction+Model" alt="Heart Disease ML App" width="100%"/>
       </a>
       <p align="center">
-        <b>User-centered interface redesign focused on seamless user journeys and accessibility.</b><br/>
-        <code>Figma</code> <code>User Research</code> <code>Prototyping</code>
+        <b>Interactive Machine Learning web application predicting heart disease risk based on clinical parameters.</b><br/>
+        <code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Pandas</code>
       </p>
       <p align="center">
-        <a href="https://figma.com"><b>View Design »</b></a> | 
-        <a href="https://github.com/devdhruvsingh"><b>Case Study »</b></a>
+        <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank"><b>Launch Live Web App »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">📊 Data Analytics & Visualization Dashboard</h4>
-      <a href="https://github.com/devdhruvsingh">
-        <img src="https://via.placeholder.com/600x350/3776AB/FFFFFF?text=Data+Analytics+Dashboard" alt="Data Analytics Preview" width="100%"/>
+      <h4 align="center">🛍️ E-Commerce GUI & Product Design</h4>
+      <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank">
+        <img src="https://via.placeholder.com/600x350/0052CC/FFFFFF?text=E-Commerce+Product+Platform" alt="E-Commerce GUI" width="100%"/>
       </a>
       <p align="center">
-        <b>Data cleaning, exploratory analysis, and interactive dashboard creation.</b><br/>
-        <code>Python</code> <code>SQL</code> <code>Tableau</code> <code>Pandas</code>
+        <b>End-to-end product architecture and functional user interface for an e-commerce platform.</b><br/>
+        <code>Product Strategy</code> <code>UI/UX</code> <code>Web Interface</code>
       </p>
       <p align="center">
-        <a href="https://public.tableau.com"><b>View Dashboard »</b></a> | 
-        <a href="https://github.com/devdhruvsingh"><b>Repository »</b></a>
+        <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank"><b>Explore Product Site »</b></a>
       </p>
     </td>
   </tr>
 
-  <!-- ROW 2: Digital Art & Product Roadmap -->
+  <!-- ROW 2: Digital Artwork & Behance Portfolio -->
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🖼️ Digital Art & Creative Designs</h4>
-      <a href="https://github.com/devdhruvsingh">
-        <img src="https://via.placeholder.com/600x350/FF9A00/FFFFFF?text=Digital+Art+Portfolio" alt="Digital Art Preview" width="100%"/>
+      <h4 align="center">🎨 Visual Art & Digital Illustrations</h4>
+      <a href="https://www.behance.net/dhruvsingh106" target="_blank">
+        <img src="https://via.placeholder.com/600x350/8A2BE2/FFFFFF?text=Digital+Art+%26+Character+Design" alt="Digital Art Portfolio" width="100%"/>
       </a>
       <p align="center">
-        <b>Collection of digital drawings, vector art, and visual brand assets.</b><br/>
-        <code>Illustrator</code> <code>Photoshop</code> <code>Digital Art</code>
+        <b>Custom digital character drawings, anime illustrations, and vector artwork.</b><br/>
+        <code>Digital Art</code> <code>Photoshop</code> <code>Illustrator</code>
       </p>
       <p align="center">
-        <a href="https://github.com/devdhruvsingh"><b>View Artwork »</b></a>
+        <a href="https://www.behance.net/dhruvsingh106" target="_blank"><b>View Behance Gallery »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">💡 Product Strategy & Management</h4>
-      <a href="https://github.com/devdhruvsingh">
-        <img src="https://via.placeholder.com/600x350/0052CC/FFFFFF?text=Product+Management+PRD" alt="Product Management Preview" width="100%"/>
+      <h4 align="center">📊 Data Analytics & Insights</h4>
+      <a href="https://github.com/devdhruvsingh" target="_blank">
+        <img src="https://via.placeholder.com/600x350/3776AB/FFFFFF?text=Data+Analytics+%26+Dashboards" alt="Data Science Portfolio" width="100%"/>
       </a>
       <p align="center">
-        <b>End-to-end product strategy document, market research, and feature roadmap.</b><br/>
-        <code>Agile</code> <code>Product Strategy</code> <code>Notion</code>
+        <b>Exploratory data analysis, statistical modeling, and data visualization.</b><br/>
+        <code>SQL</code> <code>Python</code> <code>Tableau</code> <code>Excel</code>
       </p>
       <p align="center">
-        <a href="https://github.com/devdhruvsingh"><b>Read PRD »</b></a>
+        <a href="https://github.com/devdhruvsingh" target="_blank"><b>View Repositories »</b></a>
       </p>
     </td>
   </tr>
@@ -134,8 +145,11 @@ I bridge the gap between **data intelligence, human-centered design, product str
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/devdhruvsingh" target="_blank">
+  <a href="https://linkedin.com/in/dhruv-singh-627134323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/dhruvsingh106" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="https://github.com/devdhruvsingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
