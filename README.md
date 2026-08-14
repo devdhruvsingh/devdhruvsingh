@@ -63,13 +63,15 @@ I bridge the gap between **data intelligence, human-centered design, product str
 
 ### 🚀 Live Projects & Showcase
 
+### 🚀 Live Projects & Showcase
+
 <table>
   <!-- ROW 1: Streamlit App & Product Management -->
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">❤️ Heart Disease Prediction App</h4>
       <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank">
-        <img src="https://via.placeholder.com/600x350/FF4B4B/FFFFFF?text=Heart+Disease+Prediction+Model" alt="Heart Disease ML App" width="100%"/>
+        <img src="https://dummyimage.com/600x350/ff4b4b/ffffff.png&text=Heart+Disease+Prediction+Model" alt="Heart Disease ML App" width="100%"/>
       </a>
       <p align="center">
         <b>Interactive Machine Learning web application predicting heart disease risk based on clinical parameters.</b><br/>
@@ -82,7 +84,7 @@ I bridge the gap between **data intelligence, human-centered design, product str
     <td width="50%" valign="top">
       <h4 align="center">🛍️ E-Commerce GUI & Product Design</h4>
       <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank">
-        <img src="https://via.placeholder.com/600x350/0052CC/FFFFFF?text=E-Commerce+Product+Platform" alt="E-Commerce GUI" width="100%"/>
+        <img src="https://dummyimage.com/600x350/0052cc/ffffff.png&text=E-Commerce+Product+Platform" alt="E-Commerce GUI" width="100%"/>
       </a>
       <p align="center">
         <b>End-to-end product architecture and functional user interface for an e-commerce platform.</b><br/>
@@ -99,7 +101,7 @@ I bridge the gap between **data intelligence, human-centered design, product str
     <td width="50%" valign="top">
       <h4 align="center">🎨 Visual Art & Digital Illustrations</h4>
       <a href="https://www.behance.net/dhruvsingh106" target="_blank">
-        <img src="https://via.placeholder.com/600x350/8A2BE2/FFFFFF?text=Digital+Art+%26+Character+Design" alt="Digital Art Portfolio" width="100%"/>
+        <img src="https://dummyimage.com/600x350/8a2be2/ffffff.png&text=Digital+Art+%26+Character+Design" alt="Digital Art Portfolio" width="100%"/>
       </a>
       <p align="center">
         <b>Custom digital character drawings, anime illustrations, and vector artwork.</b><br/>
@@ -112,7 +114,7 @@ I bridge the gap between **data intelligence, human-centered design, product str
     <td width="50%" valign="top">
       <h4 align="center">📊 Data Analytics & Insights</h4>
       <a href="https://github.com/devdhruvsingh" target="_blank">
-        <img src="https://via.placeholder.com/600x350/3776AB/FFFFFF?text=Data+Analytics+%26+Dashboards" alt="Data Science Portfolio" width="100%"/>
+        <img src="https://dummyimage.com/600x350/3776ab/ffffff.png&text=Data+Analytics+%26+Dashboards" alt="Data Science Portfolio" width="100%"/>
       </a>
       <p align="center">
         <b>Exploratory data analysis, statistical modeling, and data visualization.</b><br/>
@@ -124,7 +126,6 @@ I bridge the gap between **data intelligence, human-centered design, product str
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Stats
