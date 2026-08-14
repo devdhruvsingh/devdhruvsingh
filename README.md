@@ -1,172 +1,146 @@
-<!-- TOP ANIMATED HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Dhruv%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+<div align="center">
 
-<!-- ANIMATED TYPING SUBTITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&width=600&lines=Data+Analyst+%26+Scientist+%7C+ML+Engineer;Product+Manager+%26+Strategist;UI%2FUX+Designer+%26+Researcher;Visual+Artist+%26+Creative+Producer" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61D2,50:8A2387,100:0F172A&height=260&section=header&text=Hey,%20I'm%20Dhruv%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%C2%B7%20Design%20%C2%B7%20Product%20%C2%B7%20Art&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- TOP SOCIAL BADGES -->
-<p align="center">
-  <a href="https://linkedin.com/in/dhruv-singh-627134323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/dhruvsingh106" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/Heart_Disease_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" />
-  </a>
-  <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank">
-    <img src="https://img.shields.io/badge/E--Commerce_Project-0052CC?style=for-the-badge&logo=web&logoColor=white" alt="E-Commerce Project" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=E94057&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analyst+%F0%9F%93%8A;Data+Scientist+%F0%9F%A4%96;Product+Manager+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Digital+Artist+%E2%9C%8F%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e2d-3fc37b3ac503.gif" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=devdhruvsingh&label=Profile%20Views&color=e94057&style=for-the-badge" alt="profile views"/>
 
-### 🎨 About Me
+</div>
 
-I bridge the gap between **data intelligence, human-centered design, product strategy, and creative art**.
+<br/>
 
-> 📊 **Data Science & Analytics:** Building predictive machine learning models, exploratory data analysis, and deploying interactive Streamlit applications.
-> 
-> 💡 **Product Management:** Structuring product strategy, competitive research, feature scoping, and web interface prototypes.
-> 
-> 🖌️ **UI/UX Design & Visual Art:** Wireframing, intuitive user flows, digital character design, and expressive vector artwork.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
 
-- 🔭 **Featured ML Project:** [Heart Disease Prediction Model](https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app)
-- 💡 **Featured Product Project:** [E-Commerce GUI Platform](https://rahulecomgui-asqabvd4.manus.space)
-- 🎨 **Art Portfolio:** [Behance Design Showcase](https://www.behance.net/dhruvsingh106)
-- 💬 **Ask me about:** Python, Streamlit, Machine Learning, Figma, Adobe Creative Cloud, and Product Strategy
+## 🧬 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e2d-3fc37b3ac503.gif" width="100%" />
+```yaml
+name: Dhruv Singh
+based_in: India
+currently:
+  - Turning messy data into decisions 📊
+  - Prototyping products end-to-end 🚀
+  - Designing interfaces people actually enjoy 🎨
+  - Drawing whatever's stuck in my head lately ✏️
+philosophy: "Numbers tell the story, design tells it well."
+```
 
-### 🛠️ Skills & Toolkit
+<div align="center">
 
-#### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-FF61D2?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-E94057?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Product Manager](https://img.shields.io/badge/Product%20Manager-8A2387?style=for-the-badge&logo=trello&logoColor=white)
+![UI/UX Designer](https://img.shields.io/badge/UI%2FUX%20Designer-FF61D2?style=for-the-badge&logo=figma&logoColor=white)
+![Digital Artist](https://img.shields.io/badge/Digital%20Artist-0F172A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-#### 🎨 UI/UX Design & Creative Art
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+</div>
 
-#### 🚀 Product Management & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e2d-3fc37b3ac503.gif" width="100%" />
+## 🛠️ Tech & Tools Playground
 
-### 🚀 Live Projects & Showcase
+<div align="center">
+
+**Data & ML**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,mysql,r&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+**Design & Art**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,html,css&theme=dark" />
+
+**Product & Workflow**
+
+<img src="https://skillicons.dev/icons?i=notion,git,github,vscode,slack&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
+
+## 🚀 Featured Work
 
 <table>
-  <!-- ROW 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">❤️ Heart Disease Prediction App</h4>
-      <blockquote>
-        <b>Machine Learning Web App</b><br/>
-        Interactive web application predicting heart disease risk based on clinical parameters.
-      </blockquote>
-      <p align="center">
-        <code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Pandas</code>
-      </p>
-      <p align="center">
-        <a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app" target="_blank"><b>🚀 Launch Live Web App »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🛍️ E-Commerce GUI & Product Design</h4>
-      <blockquote>
-        <b>Product Architecture</b><br/>
-        End-to-end product strategy and functional user interface for an e-commerce platform.
-      </blockquote>
-      <p align="center">
-        <code>Product Strategy</code> <code>UI/UX</code> <code>Web Interface</code>
-      </p>
-      <p align="center">
-        <a href="https://rahulecomgui-asqabvd4.manus.space" target="_blank"><b>🌐 Explore Product Site »</b></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🎨 Visual Art & Character Illustration</h4>
-      <blockquote>
-        <b>Design & Artwork Portfolio</b><br/>
-        Custom digital character drawings, anime illustrations, and vector brand assets.
-      </blockquote>
-      <p align="center">
-        <code>Digital Art</code> <code>Photoshop</code> <code>Illustrator</code>
-      </p>
-      <p align="center">
-        <a href="https://www.behance.net/dhruvsingh106" target="_blank"><b>🖼️ View Behance Gallery »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📊 Data Science & Analytics Hub</h4>
-      <blockquote>
-        <b>Data Science Repositories</b><br/>
-        Exploratory data analysis, statistical modeling, data preprocessing, and visualization.
-      </blockquote>
-      <p align="center">
-        <code>SQL</code> <code>Python</code> <code>Tableau</code> <code>Excel</code>
-      </p>
-      <p align="center">
-        <a href="https://github.com/devdhruvsingh" target="_blank"><b>💻 View Repositories »</b></a>
-      </p>
-    </td>
-  </tr>
+### 🩺 Heart Disease Prediction App
+A machine-learning powered Streamlit app that predicts heart disease risk from patient data — built end-to-end, from model training to deployed UI.
+
+**[▶ Try it live](https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app)**
+
+`Python` `Scikit-learn` `Streamlit` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ NeoShop — E-Commerce UI/UX Case Study
+A modern e-commerce interface design case study — end-to-end UX thinking from research to polished UI screens.
+
+**[🎨 View on Behance](https://www.behance.net/gallery/253164285/NeoShop-Modern-E-Commerce-UIUX-Case-Study)**
+
+`UI/UX` `Figma` `Product Design`
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e2d-3fc37b3ac503.gif" width="100%" />
-
-### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdhruvsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhruvsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+**🎨 A little bit of art on the side**
+
+<a href="https://www.behance.net/gallery/242885929/an-eagle"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/228bfb242885929.Y3JvcCw1NDAwLDQyMjMsMCwxNDgz.png" width="150" style="border-radius:10px" /></a>
+<a href="https://www.behance.net/gallery/222184055/Charmander-Digital-Artwork"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/ca7e9b222184055.Y3JvcCwxMDY4LDgzNSw0OTksNDYw.jpg" width="150" style="border-radius:10px" /></a>
+<a href="https://www.behance.net/gallery/222097839/Digital-Drawing-of-Naruto"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/a7cce3222097839.Y3JvcCwxNDE3LDExMDgsMCwzODk.jpg" width="150" style="border-radius:10px" /></a>
+<a href="https://www.behance.net/gallery/222443551/Irfan-Khan-Digital-Drawing"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/0f79d8222443551.Y3JvcCwxMDgwLDg0NCwwLDExNw.jpg" width="150" style="border-radius:10px" /></a>
+
+**[✨ See the full portfolio on Behance →](https://www.behance.net/dhruvsingh106)**
+
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdhruvsingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devdhruvsingh&show_icons=true&theme=synthwave&hide_border=true&bg_color=0F172A&title_color=FF61D2&icon_color=E94057&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdhruvsingh&layout=compact&theme=synthwave&hide_border=true&bg_color=0F172A&title_color=FF61D2&text_color=ffffff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdhruvsingh&theme=dark&hide_border=true&background=0F172A&ring=FF61D2&fire=E94057&currStreakLabel=FF61D2" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=devdhruvsingh&theme=algolia&no-frame=true&margin-w=8&row=1&column=6" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-8e2d-3fc37b3ac503.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
 
-### 🌐 Connect with Me
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://linkedin.com/in/dhruv-singh-627134323" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/dhruvsingh106" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://github.com/devdhruvsingh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<!-- BOTTOM ANIMATED FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/devdhruvsingh/devdhruvsingh/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdhruvsingh&color=8A2BE2&style=flat-square" alt="Profile Views" />
-</p>
+<sub>⚡ animated snake eating through your contribution graph — needs a one-time GitHub Actions setup, see note below</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=1000" width="100%"/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhruv-singh-627134323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.behance.net/dhruvsingh106"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://devdhruvsingh-hear-disease-prediction-model-app2-chkhcw.streamlit.app"><img src="https://img.shields.io/badge/Streamlit%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+
+<br/><br/>
+
+*"Data shows the pattern. Design shows the meaning."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8A2387,100:FF61D2&height=150&section=footer" width="100%"/>
